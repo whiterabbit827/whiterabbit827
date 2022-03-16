@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @whiterabbit827
-- 👀 I’m interested in Full stack developer.
+- 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning. 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me rajnishmathur827@outlook.com
